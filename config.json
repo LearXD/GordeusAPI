@@ -1,0 +1,11 @@
+{
+    "MYSQL_DATA": {
+        "HOST": "127.0.0.1",
+        "PORT": 3306,
+        "USER": "root",
+        "PASSWORD": "",
+        "DATABASE": "gordeusapp"
+    },
+    "SERVER_ADRESS": "0.0.0.0",
+    "SERVER_PORT": 8001
+}

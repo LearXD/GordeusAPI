@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "mysql.learxd.me",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "GordeusAPI",
+            "group": "mysql",
+            "database": "gordeusapp",
+            "username": "root",
+            "password": "suasenha123"
+        }
+    ]
+}
